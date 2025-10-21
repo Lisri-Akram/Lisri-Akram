@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with **next.js,nest.js**
 
-- 📫 How to reach me **lisriakram@gmail.com**
-
 - 📄 Know about my experiences [👋 Hi, I'm Akram, a 3rd-year Computer Science engineering student specializing in Software Engineering at [Your University, e.g., USTHB]. 💻 Passionate about Clean Code principles, scalable system design, and full-stack development, I thrive on transforming complex problems into elegant, efficient software solutions. 🧩 I actively contribute to open-source projects and enjoy tackling real-world development challenges that enhance my skills in data structures and algorithmic efficiency. 🚀 Always eager to learn new frameworks, experiment with emerging technologies, and contribute to projects that make technology intuitive, robust, and impactful.](👋 Hi, I'm Akram, a 3rd-year Computer Science engineering student specializing in Software Engineering at [Your University, e.g., USTHB]. 💻 Passionate about Clean Code principles, scalable system design, and full-stack development, I thrive on transforming complex problems into elegant, efficient software solutions. 🧩 I actively contribute to open-source projects and enjoy tackling real-world development challenges that enhance my skills in data structures and algorithmic efficiency. 🚀 Always eager to learn new frameworks, experiment with emerging technologies, and contribute to projects that make technology intuitive, robust, and impactful.)
 
 <h3 align="left">Connect with me:</h3>
